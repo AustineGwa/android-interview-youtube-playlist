@@ -38,7 +38,8 @@ the app uses
 * ButterKnife
 * Retrofit2
 * Fresco
-* ExpandableRecyclerView
+* [ExpandableRecyclerView](https://github.com/thoughtbot/expandable-recycler-view)
+* YouTubeAndroidPlayerApi
 
 #### #Screnshot
 <p align="center">
